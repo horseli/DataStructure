@@ -1,0 +1,100 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp : warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2086: “int *p”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): note: 参见“p”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2065: “L”: 未声明的标识符
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2228: “.elem”的左边必须有类/结构/联合
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): note: 类型是“unknown-type”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2065: “i”: 未声明的标识符
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2059: 语法错误:“for”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2143: 语法错误: 缺少“;”(在“-”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2040: “p”:“int”与“int *”的间接寻址级别不同
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2059: 语法错误:“)”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C3928: "->": 带圆括号的声明符后不允许尾随返回类型
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C3484: 语法错误: 返回类型前应为“->”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C3613: “->”后缺少返回类型(假定为“int”)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2146: 语法错误: 缺少“;”(在标识符“length”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(2): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2059: 语法错误:“for”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2086: “int i”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“i”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2059: 语法错误:“)”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2059: 语法错误:“for”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2086: “int i”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“i”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2059: 语法错误:“)”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2059: 语法错误:“if”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2059: 语法错误:“else”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(4): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2059: 语法错误:“for”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2086: “int i”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“i”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2059: 语法错误:“)”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(5): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2059: 语法错误:“for”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2086: “int i”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“i”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2059: 语法错误:“)”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(6): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2227: “->length”的左边必须指向类/结构/联合/泛型类型
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): note: 类型是“int *”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2059: 语法错误:“for”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2086: “int i”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“i”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2059: 语法错误:“)”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(7): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2440: “初始化”: 无法从“int *”转换为“int”
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): note: 没有使该转换得以执行的上下文
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2086: “int i”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“i”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2059: 语法错误:“while”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2086: “int cout”: 重定义
+  c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(3): note: 参见“cout”的声明
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2059: 语法错误:“:”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2143: 语法错误: 缺少“;”(在“>>”的前面)
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2059: 语法错误:“if”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2059: 语法错误:“goto”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2059: 语法错误:“}”
+c:\users\asus\source\repos\project69数据结构第一次上机重试\project69数据结构第一次上机重试\源.cpp(8): error C2059: 语法错误:“case”

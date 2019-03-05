@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\asus\source\repos\数据结构第四次上机调试\数据结构第四次上机调试\源.cpp(68): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+  数据结构第四次上机调试.vcxproj -> C:\Users\asus\source\repos\数据结构第四次上机调试\Debug\数据结构第四次上机调试.exe
+  数据结构第四次上机调试.vcxproj -> C:\Users\asus\source\repos\数据结构第四次上机调试\Debug\数据结构第四次上机调试.pdb (Partial PDB)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DateStructure 3.1", "DateStructure 3.1\DateStructure 3.1.vcxproj", "{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Debug|x64.ActiveCfg = Debug|x64
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Debug|x64.Build.0 = Debug|x64
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Debug|x86.Build.0 = Debug|Win32
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Release|x64.ActiveCfg = Release|x64
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Release|x64.Build.0 = Release|x64
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Release|x86.ActiveCfg = Release|Win32
+		{30C7DFBC-1CA3-4B81-95C7-E3CCACF55DF9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A680529-B262-4402-A492-F2109D63B2C9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\asus\source\repos\project数据结构第二次上机函数调试\project数据结构第二次上机函数调试\源.cpp(200): warning C4101: “j”: 未引用的局部变量
+c:\users\asus\source\repos\project数据结构第二次上机函数调试\project数据结构第二次上机函数调试\源.cpp(200): warning C4101: “i”: 未引用的局部变量
+  Project数据结构第二次上机函数调试.vcxproj -> C:\Users\asus\source\repos\Project数据结构第二次上机函数调试\Debug\Project数据结构第二次上机函数调试.exe
+  Project数据结构第二次上机函数调试.vcxproj -> C:\Users\asus\source\repos\Project数据结构第二次上机函数调试\Debug\Project数据结构第二次上机函数调试.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  源1.cpp
+c:\users\asus\source\repos\数据结构上机 二叉树\数据结构上机 二叉树\源1.cpp(532): warning C4101: “b”: 未引用的局部变量
+c:\users\asus\source\repos\数据结构上机 二叉树\数据结构上机 二叉树\源1.cpp(532): warning C4101: “c”: 未引用的局部变量
+c:\users\asus\source\repos\数据结构上机 二叉树\数据结构上机 二叉树\源1.cpp(519): warning C4101: “T3”: 未引用的局部变量
+  数据结构上机 二叉树.vcxproj -> C:\Users\asus\source\repos\数据结构上机 二叉树\Debug\数据结构上机 二叉树.exe
+  数据结构上机 二叉树.vcxproj -> C:\Users\asus\source\repos\数据结构上机 二叉树\Debug\数据结构上机 二叉树.pdb (Partial PDB)
